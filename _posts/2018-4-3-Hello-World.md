@@ -4,7 +4,7 @@ title:  "Hello World!"
 date:   2018-4-3
 categories: Web Dev
 tags: Web Dev
-excerpt: Uh, I'm not quite sure what this is for?
+excerpt: Hello World!! :D
 mathjax: true
 ---
 
