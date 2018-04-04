@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World!"
 date:   2018-4-3
-categories: Programming
+categories: Website Programming
 tags: Website Programming
 excerpt: Hello World!! :D
 mathjax: true
@@ -18,7 +18,9 @@ My current plan is to have different sub menus for each of the different project
 * CNC Router
 * Battlerite Discord bot
 * Website blocking Chrome extension
+* This website itself!
 
+Java testing!
 ```java
 public class Test
 {
@@ -31,10 +33,10 @@ public class Test
 
 MathJax testing...?
 
-Block Mathjax 
+Block Mathjax:
 
 $$
 f(x) = ax + b
 $$
 
-Inline Mathjax $a \neq b$
+Inline Mathjax: $a \neq b$
