@@ -10,7 +10,7 @@ mathjax: true
 
 Hello world!
 
-I am still in the process of figuring things out with all this borderline-web-development stuff, so ¯\\__(ツ)__/¯ I don't know man.
+I am still in the process of figuring things out with all this borderline-web-development stuff, so ¯\\\_(ツ)\_/¯ I don't know man.
 
 My current plan is to have different sub menus for each of the different projects that I am/will be working on, which currently includes:
 
