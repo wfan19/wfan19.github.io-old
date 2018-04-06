@@ -2,8 +2,8 @@
 layout: post
 title:  "I'm Going to Make a Chrome Extension!"
 date:   2018-4-5
-categories: Extension Programming
-tags: Extension Programming
+categories: Chrome_Extension Programming
+tags: Chrome_Extension Programming
 excerpt: The Chrome extension quest begins...
 mathjax: true
 ---
