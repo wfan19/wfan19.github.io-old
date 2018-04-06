@@ -26,7 +26,7 @@ Some research and learning later, here I am. I've gone halfway through Google's 
 
 ## The Roadmap:
 Currently, I plan to develop the extension in a few phases.
-##### Pre-Alpha
+#### Pre-Alpha
 The plan for the pre-alpha is to have the basic functionality down, without much UI. Most of my settings will probably be hard-coded in.
 
 What I would need to learn:
@@ -35,7 +35,7 @@ What I would need to learn:
 
 I want to get all the functionality in ASAP since once this is done I should be much more productive, and so all the other versions, along with my other projects and schoolwork, will come along much faster.
 
-##### Alpha
+#### Alpha
 For the alpha version, I want to have the basic UI working, but without the CSS. Just the HTML.
 
 What I would have to learn:
@@ -44,11 +44,11 @@ What I would have to learn:
 
 Since the HTML and CSS components of the extension are fairly separate, I want to tackle them one at a time.
 
-##### Beta
+#### Beta
 For the beta version, the goal is to have all the basics finished - JS, HTML, CSS. At the end of the Beta I want the extension to look like an unpolished product, but with all of its functionality built in. 
 
 What I would have to learn:
 * CSS
 
-##### Version 1.0
+#### Version 1.0
 1.0 will be the official release of the extension onto the Google extension store. Throughout 1.0 I hope to continually polish the extension, but overall the functionality shouldn't vary that much. 
