@@ -1,4 +1,12 @@
-# Chrome Extension (Hello World)
+---
+layout: post
+title:  "I'm Going to Make a Chrome Extension!"
+date:   2018-4-5
+categories: Extension Programming
+tags: Extension Programming
+excerpt: The Chrome extension quest begins...
+mathjax: true
+---
 
 I'm a borderline Youtube addict; The site's like a drug to me. I waste hours of time on it, mindlessly absorbing the videos. I blame Youtube's fantastic recommendation algorithm, and my choice of music. Whenever I'm supposed to be studying, I want to put on my study music, which is on Youtube. I open <https://www.youtube.com>, and before I can look up the music, I see something that interests me on the home page, and down the rabbit hole we go...
 
