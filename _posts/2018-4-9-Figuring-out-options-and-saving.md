@@ -15,8 +15,8 @@ Since it's both a long weekend and the end of a quarter, I decided to get some w
 - [x] Start basic  work on options page
 - [x] Write a bfan.tech post about what I've done!
 
-Alright, alright. So I didn't quitee follow my roadmap. What I should have done today was work on fully implementing the website blocking  code,but so far, all I have to show for that is some half-assed copy-pasted code from stack overflow...\
-([This is the thread by the way](https://stackoverflow.com/questions/43889727/how-do-i-block-certain-websites-with-my-chrome-extension))\
+Alright, alright. So I didn't quitee follow my roadmap. What I should have done today was work on fully implementing the website blocking  code,but so far, all I have to show for that is some half-assed copy-pasted code from stack overflow...  
+([This is the thread by the way](https://stackoverflow.com/questions/43889727/how-do-i-block-certain-websites-with-my-chrome-extension))  
 Hey, at least I did get *some* work done though,  so it's better than usual.
 
 Here's the blocking  in action: ![Alt Text](https://thumbs.gfycat.com/MedicalMajorBlackbuck-size_restricted.gif)
