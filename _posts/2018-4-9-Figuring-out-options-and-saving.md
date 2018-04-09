@@ -2,8 +2,8 @@
 layout: post
 title:  "Figuring Out Options and Saving"
 date:   2018-4-9
-categories: Website Programming
-tags: Website Programming
+categories: Chrome_Extension Programming
+tags: Chrome_Extension Programming HTML JavaScript
 excerpt: Implementing a basic blocking  filter, and figuring out how option pages and saving options works.
 mathjax: true
 ---
