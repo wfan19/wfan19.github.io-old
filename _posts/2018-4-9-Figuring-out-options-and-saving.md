@@ -5,15 +5,15 @@ date:   2018-4-9
 categories: Chrome_Extension Programming
 tags: Chrome_Extension Programming HTML JavaScript
 excerpt: Implementing a basic blocking  filter, and figuring out how option pages and saving options works.
-mathjax: true
+mathjax: false
 ---
 
 Since it's both a long weekend and the end of a quarter, I decided to get some work done on the extension today.
-### Today's tasks:
-- [x] Implement basic website blocking
-- [ ] implement more advanced blocking
-- [x] Start basic  work on options page
-- [x] Write a bfan.tech post about what I've done!
+## Overall Tasks/roadmap for Pre-Alpha:
+- [x] Block website by denying connection
+- [ ] Block website by removing the whole page's ```<body>```
+- [ ] Be able to whitelist websites
+- [ ] Be able to remove parts of the website (recomendation bar, etc)
 
 Alright, alright. So I didn't quitee follow my roadmap. What I should have done today was work on fully implementing the website blocking  code,but so far, all I have to show for that is some half-assed copy-pasted code from stack overflow...  
 ([This is the thread by the way](https://stackoverflow.com/questions/43889727/how-do-i-block-certain-websites-with-my-chrome-extension))  

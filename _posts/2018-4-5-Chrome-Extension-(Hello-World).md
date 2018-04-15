@@ -52,3 +52,9 @@ What I would have to learn:
 
 #### Version 1.0
 1.0 will be the official release of the extension onto the Google extension store. Throughout 1.0 I hope to continually polish the extension, but overall the functionality shouldn't vary that much. 
+
+## Overall Tasks/roadmap for Pre-Alpha:
+- [ ] Block website by denying connection
+- [ ] Block website by removing the whole page's ```<body>```
+- [ ] Be able to whitelist websites
+- [ ] Be able to remove parts of the website (recomendation bar, etc)
