@@ -11,6 +11,7 @@ mathjax: false
 ## Overall Tasks/roadmap for Pre-Alpha:
 - [x] Block website by denying connection
 - [x] Block website by removing the whole page's ```<body>```
+- [ ] Block website only at certain times
 - [ ] Be able to whitelist websites
 - [ ] Be able to remove parts of the website (recomendation bar, etc)
 

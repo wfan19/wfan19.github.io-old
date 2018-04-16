@@ -12,6 +12,7 @@ Since it's both a long weekend and the end of a quarter, I decided to get some w
 ## Overall Tasks/roadmap for Pre-Alpha:
 - [x] Block website by denying connection
 - [ ] Block website by removing the whole page's ```<body>```
+- [ ] Block website only at certain times
 - [ ] Be able to whitelist websites
 - [ ] Be able to remove parts of the website (recomendation bar, etc)
 
