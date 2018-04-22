@@ -56,7 +56,7 @@ Now, I was finally able to stylize the words displaye:
 
 ![alt-text](https://i.imgur.com/MtiHTnY.png)
 
-What I did was that instead of simply altering the innerHTML of the ```<body>```, I appended a text node object. Now I can edit it's style.
+What I did was that instead of simply altering the innerHTML of the ```<body>```, I appended a text node object. Now I can edit its style.
 
 However, a problem that I still need to fix is to have the javascript injected at the **start** of the page load, rather than towards the end, like how it is right now. Using ```"run_at": "document_start",``` should have done it, but for some reason it's not working. I read through Google's documentation on the thing and it's not much help. I might have to resort to Stack Overflow.
 
