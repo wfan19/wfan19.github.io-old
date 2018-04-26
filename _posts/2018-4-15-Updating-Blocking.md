@@ -13,13 +13,13 @@ mathjax: false
 - [x] Block website by removing the whole page's ```<body>```
 - [ ] Block website only at certain times
 - [ ] Be able to whitelist websites
-- [ ] Be able to remove parts of the website (recomendation bar, etc)
+- [ ] Be able to remove parts of the website (recommendation bar, etc.)
 
 I ended the last post with me implementing a very basic blocking that worked by straight up denying my connection to the blocked page. That sort of blocking was fairly far from my end goal of being able to remove *parts* of a page, however, so it wasn't very satisfactory. It also just didn't give much control to me as the developer. ***Also***, the code wasn't even mine...
 
 Time for a new approach.
 
-Since my plan is to be able to remove parts of the website by the end of the Pre-Alpha, the better way for me to approach website-blocking is for me to turn the page blank rather than just deny acces.
+Since my plan is to be able to remove parts of the website by the end of the Pre-Alpha, the better way for me to approach website-blocking is for me to turn the page blank rather than just deny access.
 
 After some research on JS DOM,  it turns out that turning  the page blank, or even adding a sentence, is *really* easy. Like, three-lines-done-in-one-minute easy. Here's the code, what I had originally in ```content_script.js```:
 ``` javascript
@@ -52,7 +52,7 @@ function myMain(evt)
     text.style.fontFamily = "Sans Serif"
 }
 ```
-Now, I was finally able to stylize the words displaye:
+Now, I was finally able to stylize the words displayed:
 
 ![alt-text](https://i.imgur.com/MtiHTnY.png)
 
