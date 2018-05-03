@@ -56,4 +56,4 @@ At first, this set of goals left me scratching my head. However, while doing my 
 ![alt-text](https://media.consumeraffairs.com/files/cache/news/Dartmouth_mobile_tackling_dummy_biggreenblogalert.blogspot_large.jpg)
 Pardon the low quality...
 
-The picture showcased the original version of the Mobile Virtual Player, the one by Dartmouth, when they still wanted to use a ball drive, also to achieve omni-directional movement. What really sparked my idea was the fact that it seemed like this design had its minimalistic frame embedded *into* the foam. This meant that the frame itself did not need to have the round shape needed for self-balancing.        
+The picture showcased the original version of the Mobile Virtual Player, the one by Dartmouth, when they still wanted to use a ball drive, also to achieve Omni-directional movement. What really sparked my idea was the fact that it seemed like this design had its minimalistic frame embedded *into* the foam. This meant that the frame itself did not need to have the round shape needed for self-balancing.        

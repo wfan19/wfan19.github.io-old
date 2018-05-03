@@ -7,7 +7,6 @@ tags: Chrome_Extension Programming HTML JavaScript
 excerpt: Going from a basic "blocking through denying connection" to "'blocking' by turning the page blank".
 mathjax: false
 ---
-
 ## Overall Tasks/roadmap for Pre-Alpha:
 - [x] Block website by denying connection
 - [x] Block website by removing the whole page's ```<body>```
@@ -58,5 +57,5 @@ Now, I was finally able to stylize the words displayed:
 
 What I did was that instead of simply altering the innerHTML of the ```<body>```, I appended a text node object. Now I can edit its style.
 
-However, a problem that I still need to fix is to have the javascript injected at the **start** of the page load, rather than towards the end, like how it is right now. Using ```"run_at": "document_start",``` should have done it, but for some reason it's not working. I read through Google's documentation on the thing and it's not much help. I might have to resort to Stack Overflow.
+However, a problem that I still need to fix is to have the JavaScript injected at the **start** of the page load, rather than towards the end, like how it is right now. Using ```"run_at": "document_start",``` should have done it, but for some reason it's not working. I read through Google's documentation on the thing and it's not much help. I might have to resort to Stack Overflow.
 
