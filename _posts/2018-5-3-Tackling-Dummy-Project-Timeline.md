@@ -1,7 +1,9 @@
 ---
 layout: post
 date:   2018-5-3
-excerpt: Going from a basic "blocking through denying connection" to "'blocking' by turning the page blank".
+categories: Tackling_Dummy
+tags: Planning
+excerpt: "An outline of rough deadlines for progress on the tackling dummy's various subsystems".
 mathjax: false
 ---
 # Timeline:

@@ -3,7 +3,7 @@ layout: post
 title:  "Implementing an Improved Blocking"
 date:   2018-4-15
 categories: Chrome_Extension Programming
-tags: Chrome_Extension Programming HTML JavaScript
+tags: HTML JavaScript
 excerpt: Going from a basic "blocking through denying connection" to "'blocking' by turning the page blank".
 mathjax: false
 ---

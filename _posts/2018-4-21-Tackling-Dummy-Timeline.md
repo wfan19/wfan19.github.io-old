@@ -3,7 +3,7 @@ layout: post
 title:  "Mobile Tackling Dummy - The Story so Far"
 date:   2018-4-21
 categories: Tackling_Dummy Hardware
-tags: Tackling_Dummy CAD Soldering
+tags: CAD Soldering
 excerpt: A review of what I've done so far on the Mobile Tackling Dummy project. Part one of a two part series where I also look at my plan in the future.
 mathjax: false
 ---
