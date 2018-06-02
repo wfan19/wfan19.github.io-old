@@ -3,7 +3,7 @@ layout: post
 date:   2018-5-3
 categories: Tackling_Dummy
 tags: Planning
-excerpt: "An outline of rough deadlines for progress on the tackling dummy's various subsystems".
+excerpt: An outline of rough deadlines for progress on the tackling dummy's various subsystems.
 mathjax: false
 ---
 # Timeline:
