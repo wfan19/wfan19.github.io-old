@@ -61,6 +61,6 @@ The picture showcased the original version of the Mobile Virtual Player, the one
 
 It was this revelation that eventually lead to my current design, with an aluminum extrusion frame and foam outer shell.
 
-[insert picture of current CAD]
+>![alt-text](https://image.ibb.co/kinLnT/2018_01_18_09_52_22_NX_11_MTD3_Asmbl_prt.png)
 
 I can't wait to put this thing together once school ends!        
