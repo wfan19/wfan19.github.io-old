@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World!"
 date:   2018-4-3
-categories: Website Programming
+categories: Website
 excerpt: Hello World!! :D
 mathjax: true
 ---

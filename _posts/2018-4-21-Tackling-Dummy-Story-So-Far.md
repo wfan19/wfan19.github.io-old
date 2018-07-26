@@ -2,8 +2,8 @@
 layout: post
 title:  "Mobile Tackling Dummy - The Story so Far"
 date:   2018-4-21
-categories: Tackling_Dummy Hardware
-tags: CAD Soldering
+categories: Tackling_Dummy
+tags: CAD
 excerpt: A review of what I've done so far on the Mobile Tackling Dummy project. Part one of a two part series where I also look at my plan in the future.
 mathjax: false
 ---
@@ -53,7 +53,14 @@ V2 goals:
 - Easy to prototype and manufacture
 
 At first, this set of goals left me scratching my head. However, while doing my research, I stumbled across this picture:
+
 ![alt-text](https://media.consumeraffairs.com/files/cache/news/Dartmouth_mobile_tackling_dummy_biggreenblogalert.blogspot_large.jpg)
 Pardon the low quality...
 
-The picture showcased the original version of the Mobile Virtual Player, the one by Dartmouth, when they still wanted to use a ball drive, also to achieve Omni-directional movement. What really sparked my idea was the fact that it seemed like this design had its minimalistic frame embedded *into* the foam. This meant that the frame itself did not need to have the round shape needed for self-balancing.        
+The picture showcased the original version of the Mobile Virtual Player, the one by Dartmouth, when they still wanted to use a ball drive, also to achieve Omni-directional movement. What really sparked my idea was the fact that it seemed like this design had its minimalistic frame embedded *into* the foam. This meant that the frame itself did not need to have the round shape needed for self-balancing.
+
+It was this revelation that eventually lead to my current design, with an aluminum extrusion frame and foam outer shell.
+
+[insert picture of current CAD]
+
+I can't wait to put this thing together once school ends!        
