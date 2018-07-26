@@ -3,7 +3,17 @@ layout: post
 -date:   2018-7-26
 categories: Tackling_Dummy
 tags: CAD Machining
-excerpt: Progress on tackling dummy from 7/13 to 7/26
+excerpt: Hello and welcome to another (bi?)weekly update! This week there wasn't a lot of hardware progress, some software progress, and a _change of direction_. First, the goals from the last update:
+
+That's all the progress I have for now! My plans for the upcoming weeks are as such:
+- [x] Set up all effect controlled motors
+- [ ] Work on localization by configuring IMU and GPS
+- [x] Configure XBee communication between arduinos
+- [ ] Drive motors with arduino
+- [ ] Finish mold and cast the body
+- [ ] Order the custom vinyl wrap for the drivetrain, along with the inflated top.
+
+Wow! It seems like I didn't really get that much done, and that's kind of true. A lot of time was me being stuck on trying to iron out all the bugs of the XBee communication. There was just this endless stream of dumb problems, one after another. 
 mathjax: true
 ---
 
