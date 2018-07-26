@@ -35,10 +35,6 @@ The front and back supporting rollers initially had three rollers on each axle (
 
 After some more of the electronics hardware had arrived, I was finally able to test drive the chassis. However, I ran into a problem: at low speeds, the drive train would shake/jitter so much that it couldn't move. However, at high speeds, it drove very well. [See this video.](https://photos.app.goo.gl/9YuGBBc6BGeoNG7eA)
 
-Since the chassis wasn't moving at low speeds, I hooked it up to my PC to test its rpms and such. This was the motor's RPM at a low speed:
->![alt-text](https://cdn.discordapp.com/attachments/434611927587487744/466075433331326986/unknown.png)
-You can see that the motor was clearly jerking forward very roughly.
-
 Because this was only a problem at low speeds, I figured that this had to be because of the hall-less control of the drive motors. BLDC motors can be controlled with or without hall sensors. When controlled without hall sensors, the controller relies on the back EMF of the motor to determine it's rpm. However, this back EMF signal is very weak when the motor is at low speeds. To solve this, I had to connect the motors' hall sensors to their respective controllers, and then configure the hall sensors in software.
 
 >![alt-text](https://i.imgur.com/46GOQmC.png)
@@ -59,9 +55,7 @@ After much research, I stumbeled across [casting foam](https://www.youtube.com/w
 >![alt-text](https://i.imgur.com/9dNCErd.png)
 The green slabs are the main outer shell of the mold, to be machined out of nylon or delrin, or some other hard plastic. The red pieces are within the mold, there to form the cutout that would house the drive. The blue rods are axles used to hold the slabs together. I originally had a male-female sort of connection between the slabs, but those proved to be too much of a pain to machine. The slabs would also be held together by ratcheting straps.
 
-## Conclusion:
 That's all the progress I have for now! My plans for the upcoming weeks are as such:
-- Set up hall effect controlled motors
 - Work on localization by configuring IMU and GPS
 - Configure XBee communication between arduinos
 - Drive motors with arduino
